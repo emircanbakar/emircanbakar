@@ -4,6 +4,15 @@
 
 I'm a Frontend Developer with a passion for building clean, responsive web applications. My focus is on creating seamless user experiences and maintaining clean, efficient code.
 
+
+<p align="center">
+  Email: emirbakar952@gmail.com<br><br>
+  <a href="https://www.linkedin.com/in/emircan-b-9b94b621b/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+  </a>
+</p>
+
+
 ### Languages & Tools:
 
 <p align="center">
@@ -20,16 +29,6 @@ I'm a Frontend Developer with a passion for building clean, responsive web appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
-## 📫 Contact
-
-<p align="center">
-  Email: emirbakar952@gmail.com<br>
-  <a href="https://www.linkedin.com/in/emircan-b-9b94b621b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
-</p>
-
-## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&theme=radical" alt="Emircan's GitHub Stats" width="400"/><br>
