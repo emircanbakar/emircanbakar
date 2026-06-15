@@ -30,10 +30,4 @@ I'm a Frontend Developer with a passion for building clean, responsive web appli
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
 </p>
 
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&theme=radical" alt="Emircan's GitHub Stats" width="400"/><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbakar&layout=compact&theme=radical" alt="Top Languages" width="400"/>
-</p>
-
 </div>
