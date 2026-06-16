@@ -6,9 +6,12 @@ I'm a Frontend Developer with a passion for building clean, responsive web appli
 
 
 <p align="center">
-  Email: emirbakar952@gmail.com<br><br>
+  Email: ecbakar.dev@gmail.com<br><br>
   <a href="https://www.linkedin.com/in/emircan-b-9b94b621b/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
+  </a>
+    <a href="https://ecbakar.com/" target="_blank">
+    <img src="https://ecbakar.com/ecb_favicon.jpg" alt="Website" width="30" height="30"/>
   </a>
 </p>
 
