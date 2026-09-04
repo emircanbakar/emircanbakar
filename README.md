@@ -1,36 +1,53 @@
-<div align="center">
-
-# Hi there 👋, I'm Emircan
-
-I'm a Frontend Developer with a passion for building clean, responsive web applications. My focus is on creating seamless user experiences and maintaining clean, efficient code.
-
-
+<h1 align="center">Emircan Bakar</h1>
 <p align="center">
-  Email: ecbakar.dev@gmail.com<br><br>
-  <a href="https://www.linkedin.com/in/emircan-b-9b94b621b/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
-    <a href="https://ecbakar.com/" target="_blank">
-    <img src="https://ecbakar.com/ecb_favicon.jpg" alt="Website" width="30" height="30"/>
-  </a>
+  <b>Frontend Developer</b> — interactive, cinematic web experiences
 </p>
 
-
-### Languages & Tools:
-
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <a href="https://ecbakar.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/emircan-b-9b94b621b/">LinkedIn</a> ·
+  <a href="mailto:ecbakar.dev@gmail.com">Email</a>
 </p>
 
-</div>
+---
+
+### About
+
+I build clean, responsive web applications with a focus on motion, interaction
+and well-structured code. Lately I spend most of my time on **React + Next.js**
+front-ends and **Three.js / GSAP** driven visual work.
+
+- 🎯 Currently focused on: 3D & animation-heavy interfaces
+- 🌱 Learning: advanced TypeScript patterns, WebGL shaders
+- 💬 Ask me about: React, Next.js, animation, UI architecture
+
+### Tech Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### Selected Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [**Portfolio**](https://ecbakar.com) | Cinematic personal site with 3D scenes and scroll-driven motion | React · Three.js · GSAP |
+| [**note-taker-ai**](https://github.com/emircanbakar/note-taker-ai) | AI-assisted note taking app | JavaScript · Node.js |
+| [**fullstack-task-manager**](https://github.com/emircanbakar/fullstack-task-manager) | Task manager with auth and REST API | React · Node.js · MongoDB |
+| [**Chat-App**](https://github.com/emircanbakar/Chat-App) | Real-time messaging app | JavaScript · Node.js |
+
+### GitHub Stats
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbakar&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
