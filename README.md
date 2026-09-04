@@ -1,53 +1,59 @@
-<h1 align="center">Emircan Bakar</h1>
 <p align="center">
-  <b>Frontend Developer</b> — interactive, cinematic web experiences
+  <img src="./header.svg" width="100%" alt="Emircan Bakar — Frontend Developer" />
 </p>
 
 <p align="center">
   <a href="https://ecbakar.com">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/emircan-b-9b94b621b/">LinkedIn</a> ·
-  <a href="mailto:ecbakar.dev@gmail.com">Email</a>
+  <a href="mailto:ecbakar.dev@gmail.com">ecbakar.dev@gmail.com</a>
 </p>
 
----
+<br/>
 
-### About
+Frontend developer working at the intersection of design and engineering.
+I build interactive web applications — intuitive interfaces, fluid motion and
+performance you can measure. Currently focused on **scalable frontend
+architectures and data-driven mapping applications** serving millions of
+citizens at Istanbul Metropolitan Municipality.
 
-I build clean, responsive web applications with a focus on motion, interaction
-and well-structured code. Lately I spend most of my time on **React + Next.js**
-front-ends and **Three.js / GSAP** driven visual work.
+<br/>
 
-- 🎯 Currently focused on: 3D & animation-heavy interfaces
-- 🌱 Learning: advanced TypeScript patterns, WebGL shaders
-- 💬 Ask me about: React, Next.js, animation, UI architecture
+### Experience
 
-### Tech Stack
+| | | |
+|---|---|---|
+| **2024 — now** | Frontend Developer | Istanbul Metropolitan Municipality |
+| **2023** | UI Developer Intern | Jotform |
+| **2022** | System Support | LDAP |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+<br/>
 
-### Selected Projects
+### Stack
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Portfolio**](https://ecbakar.com) | Cinematic personal site with 3D scenes and scroll-driven motion | React · Three.js · GSAP |
-| [**note-taker-ai**](https://github.com/emircanbakar/note-taker-ai) | AI-assisted note taking app | JavaScript · Node.js |
-| [**fullstack-task-manager**](https://github.com/emircanbakar/fullstack-task-manager) | Task manager with auth and REST API | React · Node.js · MongoDB |
-| [**Chat-App**](https://github.com/emircanbakar/Chat-App) | Real-time messaging app | JavaScript · Node.js |
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,threejs,tailwind,sass,mongodb,git&theme=dark&perline=10" alt="stack" />
 
-### GitHub Stats
+`React` `Next.js` `TypeScript` `Node.js` `MapLibre GL` `WebGL / Three.js`
+`Framer Motion` `REST APIs` `Core Web Vitals` `Accessibility`
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbakar&layout=compact&hide_border=true&theme=tokyonight" />
+<br/>
+
+### Selected work
+
+**[ecbakar.com](https://ecbakar.com)** — cinematic personal site; 3D scenes and scroll-driven motion.
+`React` · `Three.js`
+
+**[note-taker-ai](https://github.com/emircanbakar/note-taker-ai)** — AI-assisted note taking with smart summaries.
+`JavaScript` · `Node.js`
+
+**[fullstack-task-manager](https://github.com/emircanbakar/fullstack-task-manager)** — task manager with auth and a REST API.
+`React` · `Node.js` · `MongoDB`
+
+**[Chat-App](https://github.com/emircanbakar/Chat-App)** — real-time messaging with live presence.
+`JavaScript` · `Socket.io`
+
+<br/>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0c11&icon_color=8a91a6&text_color=8a91a6&ring_color=f2f4f8" alt="stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbakar&layout=compact&hide_border=true&hide_title=true&bg_color=0b0c11&text_color=8a91a6" alt="top languages"/>
 </p>
