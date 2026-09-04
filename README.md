@@ -36,3 +36,24 @@ citizens at Istanbul Metropolitan Municipality.
 `Framer Motion` `REST APIs` `Core Web Vitals` `Accessibility`
 
 <br/>
+
+### Selected work
+
+**[ecbakar.com](https://ecbakar.com)** — cinematic personal site; 3D scenes and scroll-driven motion.
+`React` · `Three.js`
+
+**[note-taker-ai](https://github.com/emircanbakar/note-taker-ai)** — AI-assisted note taking with smart summaries.
+`JavaScript` · `Node.js`
+
+**[fullstack-task-manager](https://github.com/emircanbakar/fullstack-task-manager)** — task manager with auth and a REST API.
+`React` · `Node.js` · `MongoDB`
+
+**[Chat-App](https://github.com/emircanbakar/Chat-App)** — real-time messaging with live presence.
+`JavaScript` · `Socket.io`
+
+<br/>
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0c11&icon_color=8a91a6&text_color=8a91a6&ring_color=f2f4f8" alt="stats"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbakar&layout=compact&hide_border=true&hide_title=true&bg_color=0b0c11&text_color=8a91a6" alt="top languages"/>
+</p>
