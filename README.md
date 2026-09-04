@@ -53,7 +53,17 @@ citizens at Istanbul Metropolitan Municipality.
 
 <br/>
 
+### Stats
+
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&hide_border=true&hide_title=true&bg_color=0b0c11&icon_color=8a91a6&text_color=8a91a6&ring_color=f2f4f8" alt="stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbakar&layout=compact&hide_border=true&hide_title=true&bg_color=0b0c11&text_color=8a91a6" alt="top languages"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=emircanbakar&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&count_private=true&bg_color=0b0c11&icon_color=8a91a6&text_color=8a91a6&ring_color=f2f4f8" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emircanbakar&layout=compact&hide_border=true&hide_title=true&langs_count=8&bg_color=0b0c11&text_color=8a91a6" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img height="160" src="https://streak-stats.demolab.com?user=emircanbakar&hide_border=true&background=0b0c11&stroke=1a1c24&ring=f2f4f8&fire=f2f4f8&currStreakNum=f2f4f8&sideNums=8a91a6&currStreakLabel=8a91a6&sideLabels=8a91a6&dates=6f7789" alt="Streak"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=emircanbakar&hide_border=true&bg_color=0b0c11&color=f2f4f8&line=8a91a6&point=f2f4f8&area=true&area_color=1a1c24" alt="Contribution activity"/>
 </p>
