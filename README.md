@@ -2,7 +2,7 @@
 
 # Emircan Bakar
 
-**Frontend Developer** · İstanbul, Türkiye
+**Frontend Developer**
 
 <a href="https://ecbakar.com"><img src="https://img.shields.io/badge/ecbakar.com-0d1117?style=flat-square&logo=vercel&logoColor=white" alt="Website"></a>
 <a href="https://www.linkedin.com/in/emircanbakar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -12,17 +12,19 @@
 
 ---
 
-### Hakkımda
+### About
 
-İstanbul'da yaşayan, yaklaşık 2 yıldır React, Next.js ve TypeScript ile ürün geliştiren bir frontend developer'ım. Temiz, hızlı ve kullanıcıyı yormayan arayüzler kurmayı seviyorum; bir yandan da Node.js ve MongoDB ile full-stack tarafa doğru ilerliyorum. İş dışında App Store'a uygulama çıkarıyor, C# ile oyun geliştirme üzerine denemeler yapıyorum.
+I build fast, responsive web applications with React, Next.js and TypeScript, turning complex requirements into clean, component-driven interfaces that are easy to use and easy to maintain.
+Currently a frontend developer at Istanbul Metropolitan Municipality.
+Outside of work, I ship my own products: one of my iOS apps is live on the App Store, and I'm expanding into backend development and AI-powered applications.
 
-### Teknolojiler
+### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Credux%2Ctailwind%2Csass%2Cnodejs%2Cmongodb%2Ccs%2Cswift%2Cgit%2Cgithub%2Cvercel&perline=8" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=html%2Ccss%2Cjs%2Cts%2Creact%2Cnextjs%2Credux%2Ctailwind%2Csass%2Cnodejs%2Cmongodb%2Cswift%2Cgit%2Cgithub%2Cvercel&perline=8" alt="Tech stack">
 </p>
 
-### İstatistikler
+### Stats
 
 <div align="center">
 
